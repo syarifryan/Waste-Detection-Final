@@ -1,0 +1,4 @@
+timestamp: 20250617-175924
+type: image
+items: ['plastic_bottle_cap']
+filename: 7f2e00882a43ed66b99b03a1b0c96458

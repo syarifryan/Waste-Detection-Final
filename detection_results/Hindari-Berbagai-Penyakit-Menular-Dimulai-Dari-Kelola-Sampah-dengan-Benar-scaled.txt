@@ -1,0 +1,4 @@
+timestamp: 20250616-203920
+type: image
+items: ['plastic_cup']
+filename: Hindari-Berbagai-Penyakit-Menular-Dimulai-Dari-Kelola-Sampah-dengan-Benar-scaled
